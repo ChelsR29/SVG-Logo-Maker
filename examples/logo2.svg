@@ -1,0 +1,6 @@
+
+              <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" alignment-baseline="middle">
+                  <circle cx="150" cy="115" r="80" fill="Pink"/>
+                  <text x="50%" y="50%" dy="0.6em" text-anchor="middle" font-size="40" fill="BLack">BBB</text>
+              </svg>
+              
